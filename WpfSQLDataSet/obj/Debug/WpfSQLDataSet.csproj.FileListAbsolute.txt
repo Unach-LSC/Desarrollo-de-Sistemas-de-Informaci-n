@@ -1,0 +1,3 @@
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\WpfSQLDataSet\WpfSQLDataSet\bin\Debug\WpfSQLDataSet.exe.config
+C:\Users\rperez\Documents\Visual Studio 2015\Projects\Desarrollo de Sistemas de Informacion\WpfSQLDataSet\WpfSQLDataSet\bin\Debug\WpfSQLDataSet.exe.config
+C:\Users\rperez\Documents\Visual Studio 2015\Projects\Desarrollo de Sistemas de Informacion\GitHub\WpfSQLDataSet\WpfSQLDataSet\bin\Debug\WpfSQLDataSet.exe.config
